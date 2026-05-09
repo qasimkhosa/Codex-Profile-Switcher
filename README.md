@@ -6,6 +6,8 @@ Codex Profile Switcher is a small Windows desktop utility for developers, freela
 
 [Download Latest Release](https://github.com/qasimkhosa/Codex-Profile-Switcher/releases/latest) | [Buy License](https://buy.polar.sh/polar_cl_Waj8hduv5bF3RwBUVtl4f4xqwxyZd1AsgSEHs4aIX2B) | [Support](mailto:admin@bitnyxt.com)
 
+![Codex Profile Switcher hero banner](assets/images/codex-switcher-hero.png)
+
 ## What It Does
 
 - Switches Codex Desktop between **Profile 1** and **Profile 2**.
@@ -14,6 +16,20 @@ Codex Profile Switcher is a small Windows desktop utility for developers, freela
 - Includes setup/login actions for creating or refreshing each profile.
 - Runs as a compact Windows utility with a system tray icon.
 - Includes a 15-day trial, then requires a paid Polar license.
+
+## Product Preview
+
+![Codex Profile Switcher workflow preview](assets/images/codex-switcher-workflow.png)
+
+Codex Profile Switcher is built around one practical workflow: set up each account once, then switch to the profile you need without repeating the logout/login process.
+
+![Codex Profile Switcher audience preview](assets/images/codex-switcher-audience.png)
+
+It is designed for developers, freelancers, and testers who need separate work, client, or testing profiles.
+
+![Codex Profile Switcher feature overview](assets/images/codex-switcher-features.png)
+
+The app keeps the UI compact while making the main actions clear: launch a profile, set up login, or open the local data folder.
 
 ## Who It Is For
 
