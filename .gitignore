@@ -1,0 +1,16 @@
+# Keep this repository public-facing.
+# Do not commit local Codex account/profile state or private build maps.
+profiles/
+auth.json
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+dist/
+bin/
+obj/
+*.pdb
+*.user
+.env
+.env.*
+obfuscation-map-private/
