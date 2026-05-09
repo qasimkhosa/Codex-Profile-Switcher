@@ -7,19 +7,19 @@ Initial public release.
 Download:
 
 ```text
-CodexProfileSwitcher-obfuscated.zip
+CodexProfileSwitcher.zip
 ```
 
 ## Verify
 
 ```text
-SHA256: 91FF2CD3DC1214DEF64FF098AA1026DA0F2F60DF4FA40FC99E89F35144A3C3FE
+SHA256: 9286F62007526F9614F64D379A3A873D497C6FFB324CD925F80702CB695A4A9F
 ```
 
 PowerShell:
 
 ```powershell
-Get-FileHash .\CodexProfileSwitcher-obfuscated.zip -Algorithm SHA256
+Get-FileHash .\CodexProfileSwitcher.zip -Algorithm SHA256
 ```
 
 ## Highlights

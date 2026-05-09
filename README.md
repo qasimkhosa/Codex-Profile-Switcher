@@ -50,7 +50,7 @@ The app keeps the UI compact while making the main actions clear: launch a profi
 ## Download And Install
 
 1. Open the [latest GitHub Release](https://github.com/qasimkhosa/Codex-Profile-Switcher/releases/latest).
-2. Download `CodexProfileSwitcher-obfuscated.zip`.
+2. Download `CodexProfileSwitcher.zip`.
 3. Extract the ZIP to a normal folder such as `Documents\Codex Profile Switcher`.
 4. Run `CodexProfileSwitcher.exe`.
 5. Use **Setup / Login** to configure Profile 1 and Profile 2.
@@ -87,14 +87,14 @@ Read the full documents:
 Latest release asset:
 
 ```text
-CodexProfileSwitcher-obfuscated.zip
-SHA256: 91FF2CD3DC1214DEF64FF098AA1026DA0F2F60DF4FA40FC99E89F35144A3C3FE
+CodexProfileSwitcher.zip
+SHA256: 9286F62007526F9614F64D379A3A873D497C6FFB324CD925F80702CB695A4A9F
 ```
 
 After downloading, you can verify it in PowerShell:
 
 ```powershell
-Get-FileHash .\CodexProfileSwitcher-obfuscated.zip -Algorithm SHA256
+Get-FileHash .\CodexProfileSwitcher.zip -Algorithm SHA256
 ```
 
 ## Important Limitations
