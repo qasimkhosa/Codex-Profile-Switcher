@@ -1,6 +1,6 @@
 # Codex Profile Switcher
 
-**Switch between two Codex Desktop accounts on Windows without manually logging out every time.**
+**Switch between up to four Codex Desktop accounts on Windows without manually logging out every time.**
 
 Codex Profile Switcher is a small Windows desktop utility for developers, freelancers, agencies, and power users who work with more than one Codex account. It keeps each profile's Codex login data separated, then lets you launch the profile you need from a compact Windows app.
 
@@ -10,7 +10,7 @@ Codex Profile Switcher is a small Windows desktop utility for developers, freela
 
 ## What It Does
 
-- Switches Codex Desktop between **Profile 1** and **Profile 2**.
+- Switches Codex Desktop between **Profile 1**, **Profile 2**, **Profile 3**, and **Profile 4**.
 - Keeps each profile's Codex login state in its own local profile folder.
 - Shows account email, plan/model metadata, and available profile status where available.
 - Includes setup/login actions for creating or refreshing each profile.
@@ -53,8 +53,8 @@ The app keeps the UI compact while making the main actions clear: launch a profi
 2. Download `CodexProfileSwitcher.zip`.
 3. Extract the ZIP to a normal folder such as `Documents\Codex Profile Switcher`.
 4. Run `CodexProfileSwitcher.exe`.
-5. Use **Setup / Login** to configure Profile 1 and Profile 2.
-6. Use **Launch Profile 1** or **Launch Profile 2** to switch.
+5. Use **Setup / Login** to configure Profile 1 through Profile 4.
+6. Use the matching **Launch Profile** button to switch.
 
 Windows SmartScreen may warn on first launch because this is a new independent utility. Confirm you downloaded it from this GitHub repository before running.
 
@@ -88,7 +88,7 @@ Latest release asset:
 
 ```text
 CodexProfileSwitcher.zip
-SHA256: 9286F62007526F9614F64D379A3A873D497C6FFB324CD925F80702CB695A4A9F
+SHA256: DA6B4B5833F549E47CDE64ADDE5B12E7C8AD14ABB737386246D47C4134EE495B
 ```
 
 After downloading, you can verify it in PowerShell:
@@ -100,7 +100,7 @@ Get-FileHash .\CodexProfileSwitcher.zip -Algorithm SHA256
 ## Important Limitations
 
 - This is a Windows utility.
-- It is designed for two profiles.
+- It is designed for four profiles.
 - It switches local Codex Desktop login state; it does not run two active Codex accounts at the exact same time inside the same Windows user session.
 - Close Codex before switching if Windows keeps the previous session locked.
 - Do not share your local profile folder because it can contain sensitive login state.

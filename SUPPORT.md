@@ -13,7 +13,7 @@ For fastest support, include:
 - Your Windows version.
 - App version.
 - Screenshot of the issue, if safe.
-- Whether the issue is with Profile 1, Profile 2, login, license activation, or checkout.
+- Whether the issue is with Profile 1, Profile 2, Profile 3, Profile 4, login, license activation, or checkout.
 - For purchases: Polar checkout ID and purchase email.
 
 Do not send your `auth.json`, profile folder, license key, or private Codex logs publicly.

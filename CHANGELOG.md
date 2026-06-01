@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.0
+
+- Expanded from two profiles to four profiles.
+- Added Profile 3 and Profile 4 launch, login, reset, tray, and metadata support.
+- Published as a single-file obfuscated Windows executable.
+
 ## v1.0.0
 
 - Initial public release.
